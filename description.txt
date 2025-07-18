@@ -1,0 +1,6 @@
+Contains colab notebook used to preprocess audio and transcript file in a given folder.
+Resampling
+Conversion to mono
+Augmentations
+Transliteration 
+Save audios and corresponding audio-transcript mapping in the same folder.
